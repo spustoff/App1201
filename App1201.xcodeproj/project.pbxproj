@@ -31,7 +31,7 @@
 		786334D72D1EF5A400C3844F /* ExpensesViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 786334D62D1EF5A400C3844F /* ExpensesViewModel.swift */; };
 		786334DA2D1EF95000C3844F /* AddExpenses.swift in Sources */ = {isa = PBXBuildFile; fileRef = 786334D92D1EF95000C3844F /* AddExpenses.swift */; };
 		786334DD2D1EFD0400C3844F /* AddGeneral.swift in Sources */ = {isa = PBXBuildFile; fileRef = 786334DC2D1EFD0400C3844F /* AddGeneral.swift */; };
-		F948AAC32D2E9D7A00BA5B40 /* CoreModel.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = F948AAC12D2E9D7A00BA5B40 /* CoreModel.xcdatamodeld */; };
+		F9D58A592D2E9FA50056F101 /* CoreModel.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = F9D58A572D2E9FA50056F101 /* CoreModel.xcdatamodeld */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -61,7 +61,7 @@
 		786334D62D1EF5A400C3844F /* ExpensesViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExpensesViewModel.swift; sourceTree = "<group>"; };
 		786334D92D1EF95000C3844F /* AddExpenses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddExpenses.swift; sourceTree = "<group>"; };
 		786334DC2D1EFD0400C3844F /* AddGeneral.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddGeneral.swift; sourceTree = "<group>"; };
-		F948AAC22D2E9D7A00BA5B40 /* CoreModel.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = CoreModel.xcdatamodel; sourceTree = "<group>"; };
+		F9D58A582D2E9FA50056F101 /* CoreModel.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = CoreModel.xcdatamodel; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -145,7 +145,7 @@
 		786334A32D1EE0C800C3844F /* Extensions */ = {
 			isa = PBXGroup;
 			children = (
-				F948AAC12D2E9D7A00BA5B40 /* CoreModel.xcdatamodeld */,
+				F9D58A572D2E9FA50056F101 /* CoreModel.xcdatamodeld */,
 				786334BA2D1EE13C00C3844F /* CoreDataStack.swift */,
 				786334BC2D1EE14300C3844F /* Array.swift */,
 				786334BE2D1EE14A00C3844F /* DateConvert.swift */,
@@ -349,7 +349,7 @@
 				786334C72D1EE17500C3844F /* Reviws.swift in Sources */,
 				786334CF2D1EE8B800C3844F /* CarsViewModel.swift in Sources */,
 				786334D52D1EEA1C00C3844F /* DreamCar.swift in Sources */,
-				F948AAC32D2E9D7A00BA5B40 /* CoreModel.xcdatamodeld in Sources */,
+				F9D58A592D2E9FA50056F101 /* CoreModel.xcdatamodeld in Sources */,
 				786334AF2D1EE11000C3844F /* ExpensesView.swift in Sources */,
 				786334BB2D1EE13C00C3844F /* CoreDataStack.swift in Sources */,
 				786334C32D1EE15D00C3844F /* R2.swift in Sources */,
@@ -575,14 +575,14 @@
 /* End XCConfigurationList section */
 
 /* Begin XCVersionGroup section */
-		F948AAC12D2E9D7A00BA5B40 /* CoreModel.xcdatamodeld */ = {
+		F9D58A572D2E9FA50056F101 /* CoreModel.xcdatamodeld */ = {
 			isa = XCVersionGroup;
 			children = (
-				F948AAC22D2E9D7A00BA5B40 /* CoreModel.xcdatamodel */,
+				F9D58A582D2E9FA50056F101 /* CoreModel.xcdatamodel */,
 			);
-			currentVersion = F948AAC22D2E9D7A00BA5B40 /* CoreModel.xcdatamodel */;
+			currentVersion = F9D58A582D2E9FA50056F101 /* CoreModel.xcdatamodel */;
 			name = CoreModel.xcdatamodeld;
-			path = "/Users/slava/Downloads/App1201-main/App1201/All/Extensions/CoreModel.xcdatamodeld";
+			path = /Users/slava/Downloads/App1201/App1201/All/Extensions/CoreModel.xcdatamodeld;
 			sourceTree = "<group>";
 			versionGroupType = wrapper.xcdatamodel;
 		};
