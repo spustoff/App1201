@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="22758" systemVersion="23B74" minimumToolsVersion="Automatic" sourceLanguage="Swift" usedWithSwiftData="YES" userDefinedModelVersionIdentifier="">
+    <entity name="CarsModel" representedClassName="CarsModel" syncable="YES" codeGenerationType="class">
+        <attribute name="cChar" optional="YES" attributeType="String"/>
+        <attribute name="cCol" optional="YES" attributeType="String"/>
+        <attribute name="cMil" optional="YES" attributeType="String"/>
+        <attribute name="cModel" optional="YES" attributeType="String"/>
+    </entity>
+    <entity name="DreamsCarModel" representedClassName="DreamsCarModel" syncable="YES" codeGenerationType="class">
+        <attribute name="dcChar" optional="YES" attributeType="String"/>
+        <attribute name="dcCol" optional="YES" attributeType="String"/>
+        <attribute name="dcMil" optional="YES" attributeType="String"/>
+        <attribute name="dcModel" optional="YES" attributeType="String"/>
+    </entity>
+    <entity name="ExpenModel" representedClassName="ExpenModel" syncable="YES" codeGenerationType="class">
+        <attribute name="exAmount" optional="YES" attributeType="String"/>
+        <attribute name="exName" optional="YES" attributeType="String"/>
+        <attribute name="exType" optional="YES" attributeType="String"/>
+    </entity>
+</model>
